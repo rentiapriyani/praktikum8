@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+}
+
+header,
+article,
+aside,
+nav,
+footer {
+  padding: 20px;
+}
+
+.content {
+  display: flex;
+  height: 77vh;
+}
+
+header {
+  background-color: aquamarine;
+}
+
+article {
+  background-color: blue;
+  width: 50%;
+}
+
+aside {
+  background-color: aqua;
+  width: 25%;
+}
+
+nav {
+  background-color: cornflowerblue;
+  width: 25%;
+}
+
+footer {
+  background-color:violet;
+}
